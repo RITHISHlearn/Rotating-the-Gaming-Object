@@ -59,7 +59,7 @@ public class rotate : MonoBehaviour
 ```
 
 ## Output:
-![Screenshot 2025-03-14 225503](https://github.com/user-attachments/assets/68403bb2-67bb-4a18-899a-2288ea3b8357)
+![WhatsApp Image 2025-03-14 at 11 23 53 PM](https://github.com/user-attachments/assets/c4854e37-2e2d-4eb5-8ef5-f384c31acf52)
 
 
 ## Result:
